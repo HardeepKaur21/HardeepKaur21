@@ -25,10 +25,6 @@ Since graduating, I have continued to build my software development skills throu
 
   A responsive web application that integrates multiple public APIs including weather, movies, GitHub, exchange rates, meals, and more using JavaScript and asynchronous programming.
 
-* ### Task Management Application
-
-  A feature-rich task management application featuring task creation, filtering, sorting, calendar integration, progress tracking, and local storage persistence. Redone using different tehnologies.
-
 ## Currently Working On
 
 * Expanding my software development portfolio
