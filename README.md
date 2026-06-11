@@ -7,10 +7,8 @@ Since graduating, I have continued to build my software development skills throu
 ## Interests
 
 * Software Engineering
-* Problem-Solving
-* Researching new advanced concepts and trying to understand them
 * Web Development
-* Data Analysis
+* Scientific Computing
 * DevOps & Cloud Technologies
 
 ## Featured Projects
@@ -31,54 +29,12 @@ Since graduating, I have continued to build my software development skills throu
 
   A feature-rich task management application featuring task creation, filtering, sorting, calendar integration, progress tracking, and local storage persistence. Redone using different tehnologies.
 
-* ### Java OOP Projects
-
-  A collection of Java projects focused on object-oriented programming principles, including Wordle, Wordle Helper, and a Vending Machine simulation.
-
-## Technical Skills
-
-**Languages**
-
-* Java
-* JavaScript
-* Python
-* SQL
-* HTML
-* CSS
-
-**Technologies**
-
-* React
-* Node.js
-* Git & GitHub
-* Linux
-* PostgreSQL
-* Supabase
-
-**Concepts**
-
-* Object-Oriented Programming
-* Data Structures & Algorithms
-* Software Engineering Principles
-* Agile Development
-* Scientific Computing
-
 ## Currently Working On
 
-* Expanding my software development portfolio (current project: to-do list in different technologies and working on an AI Language Chatbox)
-* Giving my best in teaching and tutoring students in Olus Education
+* Expanding my software development portfolio
+* Building an AI-powered language learning platform through HS Studio
 * Learning cloud and DevOps technologies
-* Building full-stack web applications
 * Writing technical articles on Medium
-
-### HS Studio
-
-I am co-founding HS Studio, an independent software studio focused on building educational and language-learning applications.
-
-Our current project is an AI-powered language learning platform designed to help users practice conversations, improve vocabulary, and receive grammar feedback in a natural and interactive way. I am involved in the planning, software design, development, and technical decision-making for the project.
-
-This project allows me to continue developing my skills in software engineering, user experience design, web development, and AI-assisted applications.
-
 
 ## Connect With Me
 
