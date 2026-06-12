@@ -4,7 +4,7 @@ I'm Hardeep, a Physics with Astrophysics graduate (2:1) from [NUIM](https://gith
 
 Since graduating, I've continued building my skills through independent projects, technical writing, a Software Development Diploma, and my work as a Software Development Tutor. My interests include software engineering, web development, scientific computing, and cloud technologies.
 
-## Featured Projects
+### Featured Projects:
 
 * **Computational Physics:** Python simulations and numerical modelling of physical systems, including orbital mechanics and solar wind dynamics.
 
@@ -12,7 +12,7 @@ Since graduating, I've continued building my skills through independent projects
 
 * **API Dashboard:** Responsive web application integrating multiple public APIs using JavaScript and asynchronous programming.
 
-## Currently Working On
+### Currently Working On:
 
 * Expanding my software development portfolio
 * Building an AI-powered language learning platform through H&S Studio
