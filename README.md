@@ -6,17 +6,11 @@ Since graduating, I've continued building my skills through independent projects
 
 ## Featured Projects
 
-* ### Computational Physics
+* **Computational Physics:** Python simulations and numerical modelling of physical systems, including orbital mechanics and solar wind dynamics.
 
-  Python-based simulations and numerical methods developed during my Computational Physics studies, including orbital mechanics and solar wind modelling.
+* **Surface Photometry of MRK3:** Final-year research project analysing the active galaxy MRK3 through photometric and computational techniques.
 
-* ### Surface Photometry of MRK3
-
-  Final year research project analysing the structural properties of the active galaxy MRK3 using photometric techniques, data analysis, Python, Linux, and scientific computing tools.
-
-* ### API Dashboard
-
-  A responsive web application that integrates multiple public APIs including weather, movies, GitHub, exchange rates, meals, and more using JavaScript and asynchronous programming.
+* **API Dashboard:** Responsive web application integrating multiple public APIs using JavaScript and asynchronous programming.
 
 ## Currently Working On
 
