@@ -1,15 +1,8 @@
-# Hello there! I'm Hardeep Kaur Gill :)
+## Hello there!    <img src="https://i.pinimg.com/originals/51/12/5d/51125d9904b0aab078e2f7d0cbf37d8a.gif" width="23">
 
-I'm a Physics with Astrophysics graduate (2:1) from the National University of Ireland, Maynooth. Alongside my Physics studies, I completed extensive Computer Science coursework covering programming, algorithms, data structures, databases, computer networks, operating systems, and software engineering.
+I'm Hardeep, a Physics with Astrophysics graduate (2:1) from [NUIM](https://github.com/maynooth) with a strong background in Computer Science and software development.
 
-Since graduating, I have continued to build my software development skills through a Level 3 Diploma in Software Development, independent projects, technical writing, and my work as a Software Development Tutor at Olus Education.
-
-## Interests
-
-* Software Engineering
-* Web Development
-* Scientific Computing
-* DevOps & Cloud Technologies
+Since graduating, I've continued building my skills through independent projects, technical writing, a Software Development Diploma, and my work as a Software Development Tutor. My interests include software engineering, web development, scientific computing, and cloud technologies.
 
 ## Featured Projects
 
@@ -28,16 +21,12 @@ Since graduating, I have continued to build my software development skills throu
 ## Currently Working On
 
 * Expanding my software development portfolio
-* Building an AI-powered language learning platform through HS Studio
+* Building an AI-powered language learning platform through H&S Studio
 * Learning cloud and DevOps technologies
 * Writing technical articles on Medium
 
-## Connect With Me
+### Let's Connect!
 
-🌐 Portfolio: https://hardeep-kaur-gill.netlify.app/
-
-💼 LinkedIn: https://www.linkedin.com/in/hardeep-kaur-gill-3944081a1/
-
-✍️ Medium: https://medium.com/@gillhardeepkaur2000
-
-Feel free to connect with me and check out my projects!
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=githubpages&logoColor=white)](https://hardeep-kaur-gill.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardeep-kaur-gill-3944081a1/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gillhardeepkaur2000)
